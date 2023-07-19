@@ -1,0 +1,14 @@
+.article {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+
+.img-item {
+  height: 100px;
+}
+
+.chevron {
+  width: 20px;
+}

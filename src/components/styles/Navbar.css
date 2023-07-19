@@ -1,0 +1,14 @@
+.nav {
+  height: 30px;
+  background-color: blue;
+  color: white;
+  margin: 0;
+}
+
+.nav-items-container,
+.cart-item-container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+}
