@@ -1,0 +1,15 @@
+.modal-container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  width: 30vw;
+  height: 30dvh;
+  position: absolute;
+  top: 35vh;
+  right: 35%;
+  background-color: rgba(30, 30, 30, 100);
+}
+
+.text {
+  color: white;
+}
