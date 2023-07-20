@@ -9,7 +9,7 @@ export default function Modal() {
   return (
     <aside className="modal-container">
       <div>
-        <h4 className="text">Remove all items from your shopping cart?</h4>
+        <h4 className="text">Remove all items from the shopping cart?</h4>
       </div>
       <div>
         <button
