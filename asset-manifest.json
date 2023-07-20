@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/karin210.github.io/fccredux/static/css/main.c4673f2a.css",
-    "main.js": "/karin210.github.io/fccredux/static/js/main.77deb449.js",
-    "static/js/787.bab67aa8.chunk.js": "/karin210.github.io/fccredux/static/js/787.bab67aa8.chunk.js",
-    "index.html": "/karin210.github.io/fccredux/index.html",
-    "main.c4673f2a.css.map": "/karin210.github.io/fccredux/static/css/main.c4673f2a.css.map",
-    "main.77deb449.js.map": "/karin210.github.io/fccredux/static/js/main.77deb449.js.map",
-    "787.bab67aa8.chunk.js.map": "/karin210.github.io/fccredux/static/js/787.bab67aa8.chunk.js.map"
+    "main.css": "/fccredux/static/css/main.c4673f2a.css",
+    "main.js": "/fccredux/static/js/main.9d6977ff.js",
+    "static/js/787.bab67aa8.chunk.js": "/fccredux/static/js/787.bab67aa8.chunk.js",
+    "index.html": "/fccredux/index.html",
+    "main.c4673f2a.css.map": "/fccredux/static/css/main.c4673f2a.css.map",
+    "main.9d6977ff.js.map": "/fccredux/static/js/main.9d6977ff.js.map",
+    "787.bab67aa8.chunk.js.map": "/fccredux/static/js/787.bab67aa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4673f2a.css",
-    "static/js/main.77deb449.js"
+    "static/js/main.9d6977ff.js"
   ]
 }
